@@ -1,0 +1,20 @@
+h1 {
+    background-color: rgb(209, 209, 32);
+    width: 150px;
+    display: grid;
+    align-content: space-between;
+    justify-items: end;
+   
+}
+
+.fizq {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    size: 15px;
+}
+
+.fizq-items {
+    display: flex;
+    
+}
