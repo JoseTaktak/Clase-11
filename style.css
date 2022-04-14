@@ -1,6 +1,5 @@
 h1 {
-    background-color: rgb(209, 209, 32);
-    width: 150px;
+    background-color: rgba(209, 209, 32, 0.664);
     display: grid;
     align-content: space-between;
     justify-items: end;
